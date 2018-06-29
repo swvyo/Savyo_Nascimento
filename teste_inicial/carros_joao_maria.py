@@ -3,6 +3,7 @@ continuar = input()
 veloc = []
 ano = []
 
+
 if continuar != 'n' and continuar != 'N':
     while continuar != 'n' and continuar != 'N':
         ano.append(int(input()))
